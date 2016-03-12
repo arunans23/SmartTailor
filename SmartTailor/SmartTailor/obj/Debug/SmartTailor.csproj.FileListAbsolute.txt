@@ -1,0 +1,13 @@
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\SmartTailor.exe.config
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\SmartTailor.exe
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\SmartTailor.pdb
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.Form1.resources
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.Properties.Resources.resources
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.csproj.GenerateResource.Cache
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.exe
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.pdb
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\KinectUtils.dll
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\bin\Debug\KinectUtils.pdb
+C:\Users\Arunan\Desktop\SmartTailorV1\SmartTailor\SmartTailor\obj\Debug\SmartTailor.csprojResolveAssemblyReference.cache
